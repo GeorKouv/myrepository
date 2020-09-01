@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SongApp</string>
+    <string name="enterSongName">Enter Song Name</string>
+    <string name="enterSongCategory">Enter Song Category</string>
+    <string name="enterSongArtist">Enter Song Artist</string>
+    <string name="enterSongRating">Enter Song Rating</string>
+    <string name="enterSongDuration">Enter Duration</string>
+    <string name="enterSongCritic">Enter Critic</string>
+    <string name="enterSongLink">Enter Youtube Link</string>
+    <string name="addButton">ADD</string>
+    <string name="clearButton">CLEAR</string>
+    <string name="addLabel">Enter Song Details</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="update1">Update</string>
+</resources>
